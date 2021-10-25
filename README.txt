@@ -1,2 +1,2 @@
-HERE IS THE 1.1.0 VERSION: not here yet ;)
+HERE IS THE 1.1.0 VERSION: https://mega.nz/file/gE9DCQiA#sfpUCB7J4hesPkelnsgIcjgjurC7fwXDAHqDIJsRM64
 PLUS THE HTML VERSION: http://127.0.0.1:3000/
